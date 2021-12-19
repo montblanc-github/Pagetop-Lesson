@@ -19,7 +19,7 @@ h1{
 }
 
 #back{
-    position: flxed;
+    position: fixed;
     right: 20px;
     bottom: 20px;
 }
